@@ -1,7 +1,7 @@
-# Dio-desafio-github-primeiro-repositorio 😃💡
+# Dio desafio github primeiro repositorio 😃💡
 ## Repositorio desafio git /github DIO  
 
-Desafio de projeto sobre o git/github 😎
+Primeiro repositorio criado para o desafio de projeto sobre o git/github 😎
 
 ## links  ulteis 💻
 [sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
