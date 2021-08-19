@@ -1,1 +1,20 @@
 esse e um arquivo de teste para o git github
+
+algus comandos pra nao esquecer 
+
+	comando windwos linux manipulação de pastas 
+
+			windwos  		linux 	
+selecionar pasta 	CD			cd (pra voltar cd..)
+listar 		dir			ls
+criar pasta 		mkdir			mkdir	
+deletar 		del / rmdir 		rm -rf
+mover 						mv (pasta/arquivo destino/)
+copiar 					cp (pasta arquivo destino)
+
+					
+					
+iniciar o git 		git init 
+			git add *
+			git commit -m "comit1"
+			git clone LINK 
